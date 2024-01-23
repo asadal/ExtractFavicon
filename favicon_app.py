@@ -7,7 +7,7 @@ from PIL import Image
 def favicon_app():
     st.set_page_config(
         page_title="Extract Favicon",
-        page_icon="https://w7.pngwing.com/pngs/902/996/png-transparent-internet-computer-icons-popular-text-trademark-logo.png"
+        page_icon="https://e7.pngegg.com/pngimages/534/654/png-clipart-computer-icons-domain-name-world-wide-web-text-logo.png"
         )
 
     st.title("Extract Favicon")
