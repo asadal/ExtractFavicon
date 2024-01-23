@@ -29,7 +29,7 @@ def favicon_app():
 
             # 이미지 출력
             img = Image.open(BytesIO(response.content))
-            st.image(img, caption='gotcha', use_column_width=False)
+            st.image(img, caption='gotcha!', use_column_width=False)
 
             # 다운로드 버튼 생성
             buffer = BytesIO()
